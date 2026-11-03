@@ -1,0 +1,46 @@
+sentence,marker,function
+"Il avait oublié son parapluie, donc il est arrivé trempé.",donc,consequence
+"Le train était supprimé, donc nous avons pris le bus.",donc,consequence
+"Elle avait beaucoup travaillé, donc elle connaissait bien le sujet.",donc,consequence
+"La route était verglacée, donc le conducteur a ralenti.",donc,consequence
+"Le magasin était fermé, donc nous sommes rentrés.",donc,consequence
+"Il n'y avait plus de places, donc nous avons réservé ailleurs.",donc,consequence
+"Tu as terminé tes devoirs, donc tu peux sortir.",donc,consequence
+"Le serveur ne répondait pas, donc j'ai redémarré l'ordinateur.",donc,consequence
+"Elle ne se sentait pas bien, donc elle a annulé le rendez-vous.",donc,consequence
+"Nous étions en avance, donc nous avons attendu au café.",donc,consequence
+"Je voulais prendre le train, mais les billets étaient trop chers.",mais,contrast
+"Il est très jeune, mais il dirige déjà une équipe.",mais,contrast
+"La solution paraît simple, mais elle demande beaucoup de temps.",mais,contrast
+"Elle aime la montagne, mais son frère préfère la mer.",mais,contrast
+"Le film a reçu de bonnes critiques, mais je ne l'ai pas aimé.",mais,contrast
+"J'avais prévu de cuisiner, mais il n'y avait plus d'ingrédients.",mais,contrast
+"Le quartier est calme, mais les loyers sont élevés.",mais,contrast
+"Il parle couramment français, mais il hésite à l'écrire.",mais,contrast
+"Nous sommes partis tôt, mais nous sommes arrivés en retard.",mais,contrast
+"Le cours était difficile, mais les explications étaient utiles.",mais,contrast
+"Je pensais que le musée était fermé. En fait, il ouvre le lundi.",en fait,reformulation
+"Elle n'est pas sa cousine. En fait, elles sont voisines.",en fait,reformulation
+"Le problème n'est pas le prix. En fait, c'est le délai.",en fait,reformulation
+"Il ne travaille pas à Paris. En fait, son bureau est à Lyon.",en fait,reformulation
+"Je croyais qu'il avait refusé. En fait, il n'avait pas reçu le message.",en fait,reformulation
+"Ce n'est pas une traduction littérale. En fait, c'est une adaptation.",en fait,reformulation
+"Elle ne vient pas demain. En fait, elle viendra vendredi.",en fait,reformulation
+"Le débat ne porte pas sur la technologie. En fait, il concerne l'accès à l'éducation.",en fait,reformulation
+"Je pensais que le cours durait une heure. En fait, il dure quatre-vingt-dix minutes.",en fait,reformulation
+"Ce document n'est pas un article de recherche. En fait, c'est une synthèse bibliographique.",en fait,reformulation
+"Il pleuvait, donc nous avons déplacé la réunion à l'intérieur.",donc,consequence
+"Elle avait raté le bus, donc elle a appelé un taxi.",donc,consequence
+"Le fichier était corrompu, donc nous avons utilisé la sauvegarde.",donc,consequence
+"Je voulais aider, mais je ne savais pas quoi faire.",mais,contrast
+"Le texte est court, mais son argumentation est complexe.",mais,contrast
+"Il semblait sûr de lui, mais sa réponse était incorrecte.",mais,contrast
+"Le projet ne manque pas d'idées. En fait, il manque surtout de temps.",en fait,reformulation
+"Ce n'était pas une erreur de calcul. En fait, les données étaient incomplètes.",en fait,reformulation
+"Je pensais qu'elle habitait ici. En fait, elle vient seulement travailler dans cette ville.",en fait,reformulation
+"Ce n'est pas une question de talent, mais de préparation.",mais,reformulation
+"Le rendez-vous n'est pas mardi, mais mercredi.",mais,reformulation
+"Il ne s'agit pas d'un refus, mais d'une demande de délai.",mais,reformulation
+"Il disait être prêt; en fait, il semblait encore hésitant.",en fait,contrast
+"La première proposition paraît économique; en fait, elle coûte davantage.",en fait,contrast
+"Le résultat semble positif; en fait, plusieurs problèmes persistent.",en fait,contrast
