@@ -24,12 +24,6 @@ The starter dataset uses three broad labels:
 
 The examples are manually constructed teaching examples. They are **not** extracted from a published corpus, validated by multiple annotators, or suitable for making general claims about French discourse. The labels are provisional. In particular, `en fait` can have several functions, and the current dataset simplifies those distinctions.
 
-Before treating this as research data:
-1. Replace or substantially expand the starter examples with authentic examples from a documented, legally usable source.
-2. Write annotation guidelines with definitions and positive/negative examples.
-3. Have a second French speaker or linguistically trained annotator review a sample, if possible.
-4. Record disagreements and revise the guidelines.
-5. Keep train/test examples independent. If multiple sentences come from the same source or document, split by source/document to reduce leakage.
 
 ## Files
 
