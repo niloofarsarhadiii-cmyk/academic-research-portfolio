@@ -40,8 +40,7 @@ An ongoing Python project exploring whether machine-learning methods can identif
 - Persian NLP and coreference resolution
 - Linguistically informed language technologies
 
-## CV & Contact
+## Contact
 
-Academic CV:Coming soon.
 
 Email: Niloofar.sarhadiii@gmail.com
