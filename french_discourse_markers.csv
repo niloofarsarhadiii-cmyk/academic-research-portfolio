@@ -1,0 +1,73 @@
+id,sentence,marker,label
+1,"Il a plu toute la nuit, donc les routes sont glissantes ce matin.",donc,consequence
+2,"Le train a une heure de retard, donc nous allons manquer la correspondance.",donc,consequence
+3,"Tu n'as pas fini ton travail, donc tu ne sortiras pas ce soir.",donc,consequence
+4,"Les ventes ont fortement baissé ; par conséquent, l'entreprise doit réduire ses dépenses.",par conséquent,consequence
+5,"Le règlement interdit les retards ; par conséquent, les élèves arrivent désormais à l'heure.",par conséquent,consequence
+6,"La rivière a débordé ; par conséquent, plusieurs villages ont été évacués.",par conséquent,consequence
+7,"Je n'avais plus d'argent, alors j'ai vendu mon vélo.",alors,consequence
+8,"Il faisait trop froid dehors, alors nous sommes rentrés.",alors,consequence
+9,"Le magasin était fermé, alors on a commandé en ligne.",alors,consequence
+10,"Le projet manque de financement ; c'est pourquoi nous cherchons de nouveaux partenaires.",c'est pourquoi,consequence
+11,"Marie est très prudente, c'est pourquoi elle relit toujours ses contrats.",c'est pourquoi,consequence
+12,"Les prix du carburant augmentent, c'est pourquoi de nombreux foyers utilisent moins la voiture.",c'est pourquoi,consequence
+13,"Le gouvernement a réduit les taxes ; ainsi, les prix ont baissé dans tous les magasins.",ainsi,consequence
+14,"Elle a travaillé chaque jour pendant un an ; ainsi, elle a réussi son examen avec mention.",ainsi,consequence
+15,"Nous avons isolé la maison ; ainsi, la facture de chauffage a diminué.",ainsi,consequence
+16,"Mon téléphone est tombé en panne, du coup je n'ai pas vu ton message.",du coup,consequence
+17,"Il n'y avait plus de place au restaurant, du coup on a mangé une pizza.",du coup,consequence
+18,"Julien a oublié ses clés, du coup il a dû attendre dehors.",du coup,consequence
+19,"Le pont est fermé pour travaux ; de ce fait, la circulation est déviée.",de ce fait,consequence
+20,"La bibliothèque a prolongé ses horaires ; de ce fait, les étudiants peuvent y réviser le soir.",de ce fait,consequence
+21,"L'équipe a perdu deux joueurs clés ; de ce fait, son niveau a beaucoup baissé.",de ce fait,consequence
+22,"Le vent est devenu très fort ; en conséquence, les vols ont été annulés.",en conséquence,consequence
+23,"Vous avez signé le contrat ; en conséquence, vous devez respecter ses conditions.",en conséquence,consequence
+24,"Le budget a été réduit ; en conséquence, deux postes ont été supprimés.",en conséquence,consequence
+25,"Elle parle très bien l'anglais, mais elle n'ose pas le parler en public.",mais,contrast
+26,"Le film est long, mais il ne m'a pas ennuyé une seconde.",mais,contrast
+27,"J'aimerais venir à ta fête, mais je travaille ce soir-là.",mais,contrast
+28,"Il a beaucoup étudié, pourtant il a échoué à l'examen.",pourtant,contrast
+29,"Le ciel était dégagé, pourtant il a plu pendant dix minutes.",pourtant,contrast
+30,"Cette recette est simple, pourtant personne n'arrive à la réussir.",pourtant,contrast
+31,"Le plan semble solide ; cependant, il présente quelques risques importants.",cependant,contrast
+32,"Les résultats sont encourageants ; cependant, il faut rester prudent.",cependant,contrast
+33,"Ce quartier est calme la journée ; cependant, il devient bruyant le week-end.",cependant,contrast
+34,"Le médicament est efficace ; toutefois, il peut provoquer de la fatigue.",toutefois,contrast
+35,"Nous acceptons les animaux ; toutefois, ils doivent rester en laisse.",toutefois,contrast
+36,"Le projet avance bien ; toutefois, le calendrier reste serré.",toutefois,contrast
+37,"Le premier hôtel était très cher ; en revanche, le second était étonnamment abordable.",en revanche,contrast
+38,"Paul déteste le sport ; en revanche, sa sœur s'entraîne tous les jours.",en revanche,contrast
+39,"La ville est bruyante ; en revanche, elle offre de nombreuses activités culturelles.",en revanche,contrast
+40,"Je n'aime pas le café, par contre j'adore le thé au jasmin.",par contre,contrast
+41,"Le logement est petit, par contre il est très bien situé.",par contre,contrast
+42,"Il ne parle pas beaucoup, par contre il écoute toujours avec attention.",par contre,contrast
+43,"L'étude a des limites ; néanmoins, ses conclusions restent intéressantes.",néanmoins,contrast
+44,"La route est longue ; néanmoins, le trajet vaut vraiment la peine.",néanmoins,contrast
+45,"Il était fatigué ; néanmoins, il a tenu à terminer son discours.",néanmoins,contrast
+46,"Il n'est pas paresseux ; au contraire, il travaille plus que tout le monde.",au contraire,contrast
+47,"Cette décision ne simplifie pas les choses ; au contraire, elle les complique.",au contraire,contrast
+48,"Elle n'a pas été déçue par le voyage ; au contraire, elle veut y retourner.",au contraire,contrast
+49,"Le taux de chômage a baissé de deux points ; autrement dit, davantage de personnes ont trouvé un emploi.",autrement dit,reformulation
+50,"Cette loi est inapplicable ; autrement dit, personne ne peut la respecter.",autrement dit,reformulation
+51,"Le salaire est gelé ; autrement dit, il ne changera pas cette année.",autrement dit,reformulation
+52,"Elle est bilingue, c'est-à-dire qu'elle parle deux langues couramment.",c'est-à-dire,reformulation
+53,"Le musée ouvre à dix heures, c'est-à-dire une heure plus tôt qu'avant.",c'est-à-dire,reformulation
+54,"Dans cette région vit un herbivore, c'est-à-dire un animal qui ne mange que des plantes.",c'est-à-dire,reformulation
+55,"Le candidat n'a pas répondu ; en d'autres termes, il a évité la question.",en d'autres termes,reformulation
+56,"La méthode est lente ; en d'autres termes, elle demande beaucoup de patience.",en d'autres termes,reformulation
+57,"Nous devons réduire les coûts ; en d'autres termes, il faut dépenser moins.",en d'autres termes,reformulation
+58,"Il habite à Lyon, ou plutôt dans une petite commune près de Lyon.",ou plutôt,reformulation
+59,"J'ai rencontré son frère, ou plutôt son demi-frère, hier soir.",ou plutôt,reformulation
+60,"Elle est professeure, ou plutôt maîtresse de conférences, à l'université.",ou plutôt,reformulation
+61,"Le billet coûte douze euros, soit environ quinze dollars.",soit,reformulation
+62,"Le cours dure quatre-vingt-dix minutes, soit une heure et demie.",soit,reformulation
+63,"Il a lu trente livres cette année, soit environ un livre toutes les deux semaines.",soit,reformulation
+64,"Il faut des fonds, du personnel et du temps ; en somme, le projet demande beaucoup de ressources.",en somme,reformulation
+65,"Elle arrive tard, part tôt et parle peu ; en somme, elle participe très peu.",en somme,reformulation
+66,"Le texte critique l'économie, le gouvernement et la presse ; en somme, il critique tout.",en somme,reformulation
+67,"Il y avait du bruit, de la foule, de la chaleur ; bref, la soirée était épuisante.",bref,reformulation
+68,"Mon train a été annulé, mon sac a disparu, il pleuvait ; bref, une journée à oublier.",bref,reformulation
+69,"Les prix montent, les salaires stagnent ; bref, la vie devient plus chère.",bref,reformulation
+70,"Ce film est drôle, intelligent et émouvant ; en un mot, il est excellent.",en un mot,reformulation
+71,"Il est généreux, patient et attentif ; en un mot, c'est un ami précieux.",en un mot,reformulation
+72,"La proposition est claire, juste et réaliste ; en un mot, elle est acceptable.",en un mot,reformulation
