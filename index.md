@@ -37,7 +37,7 @@ An ongoing Python project exploring whether machine-learning methods can identif
 - Computational discourse analysis
 - Computational pragmatics
 - Multilingual natural language processing
-- Persian NLP and coreference resolution
+- NLP and coreference resolution
 - Linguistically informed language technologies
 
 ## Contact
