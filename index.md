@@ -11,36 +11,38 @@ I am particularly interested in computational discourse analysis, computational 
 ---
 
 ## About Me
-
-My academic background includes a BA in French Literature and an MA in French Studies. Through my studies, translation work, and language teaching experience, I have developed a strong interest in how languages work and how people understand and communicate meaning.
-
-I am now developing my programming and computational skills to explore linguistic questions through natural language processing and computational methods.
+I’ve spent years studying languages, teaching them, and wondering why French has so many silent letters. Now I’m learning to code and teaching computers to understand language, because apparently, I haven’t made my life complicated enough.
 
 ## Research & Writing
 
 ### The Importance of Computational Discourse Analysis
 
 A literature review examining discourse comprehension, discourse relations, coreference annotation, and computational approaches to understanding language in context.
-
-**Status:** Completed literature review.
+Status: Completed literature review.
 
 ## Programming Projects
 
-### Contextual Classification of French Discourse Markers
+French Discourse Marker Classifier
+A small NLP project that classifies the function of French discourse markers in sentences.
 
-An ongoing Python project exploring whether machine-learning methods can identify the discourse functions of French markers such as *donc*, *mais*, and *en fait* based on their linguistic context.
-
-**Status:** In progress.
+Markers
+- donc — consequence
+- mais — contrast
+- en fait — reformulation
+Methods
+- TF-IDF text representation
+- Logistic regression classifier
+- Baseline comparison
+- Precision, recall, and F1 evaluation
+- Error analysis
 
 ## Research Interests
 
-- Computational discourse analysis
-- Computational pragmatics
-- Multilingual natural language processing
-- NLP and coreference resolution
-- Linguistically informed language technologies
+Linguistically informed language technologies, including grammar engineering
+Multilingual and low-resource NLP, with attention to typological variation
+Discourse, reference, and pragmatics, including coreference resolution
+Syntax and its interface with information structure
+First and second language acquisition
 
 ## Contact
-
-
 Email: Niloofar.sarhadiii@gmail.com
