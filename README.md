@@ -140,10 +140,7 @@ Install the required libraries using:
 ```bash
 pip install -r requirements.txt
 
-python main.py
-## Evaluation Outputs
 
-The experiment generates two evaluation files:
 
 - `test_predictions.csv`: Contains the test sentences, their actual labels, the model's predicted labels, and whether each prediction was correct.
 - `confusion_matrix.png`: Visualizes the classification results and shows which categories were correctly classified or confused.
