@@ -1,4 +1,0 @@
-sentence,actual_label,predicted_label,correct
-"Il est gentil, mais parfois impatient.",contrast,contrast,True
-"En fait, je préfère rester ici.",reformulation,reformulation,True
-"Il pleut, donc je reste chez moi.",consequence,contrast,False
