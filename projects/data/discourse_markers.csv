@@ -1,0 +1,7 @@
+sentence,marker,label
+"Il pleut, donc je reste chez moi.",donc,consequence
+"Je voulais sortir, mais il pleut.",mais,contrast
+"En fait, je préfère rester ici.",en fait,reformulation
+"Elle étudie beaucoup, donc elle réussit.",donc,consequence
+"Il est gentil, mais parfois impatient.",mais,contrast
+"En fait, nous avons déjà terminé.",en fait,reformulation
