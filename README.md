@@ -23,19 +23,18 @@ Status: Completed literature review.
 ## Programming Projects
 
 My literature review and Python project focus on two different languages, Persian and French, by design. In my literature review, I examine computational discourse analysis more broadly, using the Persian Discourse Treebank and Coreference Corpus as an example of how language-specific resources can contribute to computational linguistics, particularly for languages that remain less represented in NLP research. I chose French for my practical Python project because of my academic background in French literature, translation, and language teaching. This gives me an opportunity to begin applying computational methods to linguistic questions in a language I have studied extensively. I see these two projects as complementary rather than separate: the literature review helps me understand the theoretical foundations and challenges of computational discourse analysis, while the Python project allows me to explore some of these questions through actual data and programming. Ultimately, I am interested in how context, linguistic structure, and meaning interact across languages, and how computational methods can help us study these relationships without overlooking the particular characteristics of each language.
-French Discourse Marker Classifier
-A small NLP project that classifies the function of French discourse markers in sentences.
 
-Markers
-- donc — consequence
-- mais — contrast
-- en fait — reformulation
-Methods
-- TF-IDF text representation
-- Logistic regression classifier
-- Baseline comparison
-- Precision, recall, and F1 evaluation
-- Error analysis
+Our research question:
+
+To what extent does contextual information improve the computational classification of French discourse markers?
+
+Our goal is to build a Python program that examines French sentences and predicts the function of a discourse marker.
+
+We'll investigate three functions:
+Marker	Function	Example
+donc	Consequence	Il pleut, donc je reste.
+mais	Contrast	Je veux sortir, mais je travaille.
+en fait	Reformulation	Il est gentil. En fait, il aide tout le monde.
 
 ## Research Interests
 
