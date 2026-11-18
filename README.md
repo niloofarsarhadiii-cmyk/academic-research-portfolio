@@ -22,6 +22,7 @@ Status: Completed literature review.
 
 ## Programming Projects
 
+My literature review and Python project focus on two different languages, Persian and French, by design. In my literature review, I examine computational discourse analysis more broadly, using the Persian Discourse Treebank and Coreference Corpus as an example of how language-specific resources can contribute to computational linguistics, particularly for languages that remain less represented in NLP research. I chose French for my practical Python project because of my academic background in French literature, translation, and language teaching. This gives me an opportunity to begin applying computational methods to linguistic questions in a language I have studied extensively. I see these two projects as complementary rather than separate: the literature review helps me understand the theoretical foundations and challenges of computational discourse analysis, while the Python project allows me to explore some of these questions through actual data and programming. Ultimately, I am interested in how context, linguistic structure, and meaning interact across languages, and how computational methods can help us study these relationships without overlooking the particular characteristics of each language.
 French Discourse Marker Classifier
 A small NLP project that classifies the function of French discourse markers in sentences.
 
